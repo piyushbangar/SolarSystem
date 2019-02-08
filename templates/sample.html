@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Welcome to WebGL</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/101/three.js"></script>
+    <script src="/public/js/main.js"></script>
+    <script src="/public/js/orbitalcontrols.js"></script>
+    <!-- <script src="/public/data.js"></script> -->
+    <script src="/public/js/renderer.js"></script>
+    <script src="/public/js/star.js"></script>
+    <script src="/public/js/planet.js"></script>
+    <script src="/public/js/stereoEffect.js"></script>
+</head>
+
+<body onLoad="onLoad();" style="background-image: url(./public/img/2k_stars_milky_way.jpg)">
+    <center style="color: gray ">
+        <h1>Welcome to the Universe</h1>
+    </center>
+    <div id="container" style="width:95%; height:80%; position:absolute;">
+        <div id="content" style="width:90%; height:6%; position:absolute; top: 0; text-align:center;color: white ;font-size:20px;"></div>
+    </div>
+    <button id="vrbutton" style="width:49%; height:6%; bottom:0; position:absolute; font-size: 1em; display: inline-block; color: gray; background: none; border: none; outline: none;">VR</button>
+    <button id="animatebutton" style="width:49%; height:6%; bottom:0; right:0; position:absolute; font-size: 1em; display: inline-block; color: gray; background: none; border: none; outline: none;">Animation</button>
+</body>
+
+</html>

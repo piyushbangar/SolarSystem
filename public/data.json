@@ -1,0 +1,37 @@
+{
+    "width_segments”: 32,“
+    height_segments”: 32, “sun”: {“
+        size”: 69.5,
+        “texture”: “images / sun / 2 k_sun.jpg”
+    }, “mercury”: {“
+        size”: 2.4,
+        “texture”: “images / mercury / 2 k_mercury.jpg”
+    }, “venus”: {“
+        size”: 6,
+        “texture”: “images / venus / 2 k_venus.jpg”
+    }, “earth”: {“
+        size”: 6.4,
+        “texture”: “images / mercury / 2 k_mercury.jpg”
+    }, “mars”: {“
+        size”: 3.4,
+        “texture”: “images / mars / 2 k_mars.jpg”
+    }, “jupiter”: {“
+        size”: 60,
+        “texture”: “images / jupiter / 2 k_jupiter.jpg”
+    }, “saturn”: {“
+        size”: 58,
+        “texture”: “images / saturn / 2 k_saturn.jpg”
+    }, “uranus”: {“
+        size”: 15.7,
+        “texture”: “images / uranus / 2 k_uranus.jpg”
+    }, “neptune”: {“
+        size”: 15.3,
+        “texture”: “images / neptune / 2 k_neptune.jpg”
+    }, “moon”: {“
+        size”: 1.73,
+        “texture”: “images / moon / 2 k_moon.jpg”
+    }, “moon_other”: {“
+        size”: 1,
+        “texture”: “images / moon_other / 2 k_moon_other.jpg”
+    }
+};
